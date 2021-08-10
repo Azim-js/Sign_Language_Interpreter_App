@@ -1,7 +1,8 @@
+
 # Sign_Language_Interpreter_App
 SLI APP
 <hr>
-![image](https://user-images.githubusercontent.com/66790056/128917160-3e1b2d66-13b0-4ee8-a352-816c61df7f0e.png)
+![1ss](https://user-images.githubusercontent.com/66790056/128918422-586fe953-ff84-45d0-bf2c-58801dab46dc.png)
 <hr>
 ![image](https://user-images.githubusercontent.com/66790056/128917358-ef319ec4-15dd-480a-a54a-f5f45025f5a2.png)
 <hr>
